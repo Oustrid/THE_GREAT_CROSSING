@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 841.89 595.28" style="enable-background:new 0 0 841.89 595.28;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#3A4D9C;}
+	.st1{fill:#020203;}
+	.st2{fill:#FFD568;}
+	.st3{fill:none;stroke:#020203;stroke-miterlimit:10;}
+	.st4{fill:#020203;stroke:#020203;stroke-miterlimit:10;}
+</style>
+<rect x="353.78" y="191.88" class="st0" width="34.75" height="108.34"/>
+<g>
+	
+		<ellipse transform="matrix(1 -6.639679e-03 6.639679e-03 1 -1.8979 2.475)" class="st1" cx="371.81" cy="287.08" rx="4.81" ry="5.17"/>
+	<polygon class="st1" points="374.82,283.39 373.99,283.09 374.66,280.94 368.88,280.98 369.57,283.12 368.74,283.43 367.65,280.05 
+		375.87,280 	"/>
+	<g>
+		
+			<rect x="369.05" y="254.04" transform="matrix(1 -6.640022e-03 6.640022e-03 1 -1.7665 2.4738)" class="st2" width="5.25" height="26.45"/>
+		<path class="st1" d="M374.83,280.94l-6.12,0.04l-0.18-27.39l6.12-0.04L374.83,280.94z M369.57,280.04l4.37-0.03l-0.17-25.51
+			l-4.37,0.03L369.57,280.04z"/>
+	</g>
+	<path class="st3" d="M366.64,279.61"/>
+	
+		<rect x="371.24" y="254.04" transform="matrix(1 -6.640076e-03 6.640076e-03 1 -1.7665 2.4738)" class="st1" width="0.87" height="26.45"/>
+	<path class="st4" d="M375.52,254l-7.87,0.05l-0.02-3.24l7.87-0.05L375.52,254z M368.52,253.11l6.12-0.04l-0.01-1.36l-6.12,0.04
+		L368.52,253.11z"/>
+	
+		<rect x="363.99" y="251.77" transform="matrix(1 -6.640076e-03 6.640076e-03 1 -1.6682 2.436)" class="st1" width="4.09" height="1.37"/>
+	
+		<rect x="375.08" y="251.69" transform="matrix(1 -6.640076e-03 6.640076e-03 1 -1.6675 2.5097)" class="st1" width="4.09" height="1.37"/>
+	<polygon class="st1" points="368.95,251.75 368.69,212.92 371.23,200.6 373.94,212.88 374.2,251.71 	"/>
+	<g>
+		
+			<ellipse transform="matrix(1 -6.639679e-03 6.639679e-03 1 -1.8979 2.475)" class="st2" cx="371.81" cy="287.08" rx="1.75" ry="1.88"/>
+		<path class="st1" d="M371.82,289.43c-1.21,0.01-2.19-1.04-2.2-2.34c-0.01-1.3,0.97-2.36,2.17-2.37c1.21-0.01,2.19,1.04,2.2,2.34
+			C374,288.36,373.03,289.42,371.82,289.43z M371.8,285.67c-0.72,0-1.31,0.64-1.3,1.42c0.01,0.78,0.6,1.41,1.32,1.4
+			c0.72,0,1.31-0.64,1.3-1.42C373.11,286.29,372.52,285.66,371.8,285.67z"/>
+	</g>
+</g>
+</svg>
