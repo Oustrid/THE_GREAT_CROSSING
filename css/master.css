@@ -1,3 +1,86 @@
+
+header {
+  padding: 12px;
+}
+
+.logotitre {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.logotitre img {
+  width: 100%;
+}
+
+
+
+section {
+  border: 2px solid red;
+  display: flex;
+  align-items: center;
+}
+
+.background img{
+  background-size: contain;
+  background-color:white;
+  height:87px;
+    width:100px;
+
+}
 .left-bank {
-  margin-left: 50px;
+
+
+}
+
+.bateau {
+  max-width: 20%;
+}
+
+.bateau img {
+  width: 100%;
+}
+
+.right-bank {
+
+}
+
+img "images/logo.png" {
+  width: 50px;
+  height: auto;
+}
+
+
+
+.couple {
+  display: flex;
+}
+
+.person {
+  max-width: 25px;
+
+}
+
+.couple img {
+  width: 100%;
+}
+
+#Page{
+  width: 200px;
+}
+
+footer {
+  width: 350px;
+  min-height: 90px;
+  padding: 42px;
+  background-color: #FFCC4D
+}
+
+#duo1 {
+  float: overflow;
+}
+
+.bateau {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
 }
