@@ -24,7 +24,7 @@ header {
 
 section {
   min-height: 90vh;
-  border: 2px solid red;
+  border: 2px ;
   display: flex;
   align-items: center;
 }
@@ -35,9 +35,14 @@ section {
 }
 
 
+.steps {
+  background: url('images/page2_fond.svg') top center no-repeat;
+  background-size: cover;
+}
+
 .background img{
   background-size: contain;
-  background-color:white;
+  background-color:#FDCB4F;
   height:87px;
     width:100px;
 
@@ -95,8 +100,16 @@ img "images/logo.png" {
   left : 8%;
 }
 
-footer {
+.qcm {
+ display: flex;
+ justify-content: space-around;
+ min-height: 20vh;
+ align-items: center;
+}
 
+.qcm a {
+  display: block;
+  flex-basis: 200px;
 }
 
 #duo1 {
