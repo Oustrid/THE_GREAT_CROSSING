@@ -95,9 +95,14 @@ img "images/logo.png" {
   left : 8%;
 }
 
-footer {
+/* Choix du joueur */
+
+.choice {
+  display:flex;
 
 }
+
+/* Choix du joueur */
 
 #duo1 {
   float: overflow;
